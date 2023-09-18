@@ -54,7 +54,7 @@
         <parameter key="attribute_filter_type" value="a subset"/>
         <parameter key="select_attribute" value=""/>
         <parameter key="select_subset" value="age␞capital-gain␞capital-loss␞education␞educational-num␞gender␞hours-per-week␞income␞marital-status␞native-country␞occupation␞race␞relationship␞workclass"/>
-        <parameter key="also_apply_to_special_attributes_(id,_label..)" value="false"/>
+        <parameter key="also_apply_to_special_attributes_(id,_label..)" value="true"/>
       </operator>
       <operator activated="true" class="nominal_to_numerical" compatibility="10.1.003" expanded="true" height="103" name="Nominal to Numerical" width="90" x="179" y="187">
         <parameter key="return_preprocessing_model" value="false"/>
